@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648331041043",
+    "project_id": "salon-booking-8bc5a",
+    "storage_bucket": "salon-booking-8bc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648331041043:android:17884d294b58fa9270e2e6",
+        "android_client_info": {
+          "package_name": "com.amon.salon_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648331041043-vsiaqagb07ibns98c381aare51hmq6ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_4xkYNzO13ju7nLTGtpsEdW1zovD78eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648331041043-vsiaqagb07ibns98c381aare51hmq6ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
